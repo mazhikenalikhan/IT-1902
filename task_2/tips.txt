@@ -1,0 +1,11 @@
+border color: lightgray.
+
+no need to use styles for body
+
+use standard tags
+
+use style only to: <table>, <td>.
+
+margins and paddings are divisible to 5.
+
+use solid.

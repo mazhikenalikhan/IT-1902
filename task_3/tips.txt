@@ -1,0 +1,5 @@
+border colors: lightgray и black.
+
+No need to change body color
+
+margins and paddings are divisible to 5.
